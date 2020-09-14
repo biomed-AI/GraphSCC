@@ -6,6 +6,7 @@ Network
 
 # Requirement
 Python 3.6.9
+
 PyTorch 1.1.0
 
 
