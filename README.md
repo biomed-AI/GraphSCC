@@ -4,6 +4,10 @@ Structural Relations between Cells through Graph Convolutional
 Network
 
 
+# Requirement
+Python 3.6.9
+PyTorch 1.1.0
+
 # Dataset
 The datasets we used in this study can be available at
 https://hemberg-lab.github.io/scRNA.seq.datasets/
